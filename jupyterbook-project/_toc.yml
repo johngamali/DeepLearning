@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Lab Exercises
+    chapters:
+      - file: myNotebooks/Lab_1
+      - file: myNotebooks/Lab_2
+      - file: myNotebooks/Lab_3
+      - file: myNotebooks/Lab_4
+      - file: myNotebooks/Lab_5
+
