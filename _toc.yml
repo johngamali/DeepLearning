@@ -17,5 +17,3 @@ parts:
   - caption: Lectures
     chapters:
       - file: myLectures/lec1
-
-  - caption: Projects   
