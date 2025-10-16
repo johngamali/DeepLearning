@@ -13,4 +13,9 @@ parts:
       - file: myNotebooks/Lab_4
       - file: myNotebooks/Lab_5
       - file: myNotebooks/Lab_6
-  
+
+  - caption: Lectures
+    chapters:
+      - file: myLectures/lec1
+
+  - caption: Projects   
