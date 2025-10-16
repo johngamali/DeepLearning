@@ -13,8 +13,4 @@ parts:
       - file: myNotebooks/Lab_4
       - file: myNotebooks/Lab_5
       - file: myNotebooks/Lab_6
-<<<<<<< HEAD
-=======
-      
->>>>>>> a048c7d79f637f6f6b96e0cea1bb2fb054216dc1
-
+  
