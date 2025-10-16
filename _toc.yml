@@ -12,4 +12,5 @@ parts:
       - file: myNotebooks/Lab_3
       - file: myNotebooks/Lab_4
       - file: myNotebooks/Lab_5
+      - file: myNotebooks/Lab_6
 
